@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning computer sience(security)
+- 📫 interested in app development and artificial intelligence.
 
 <!--
 - 👯 I’m looking to collaborate on ...
