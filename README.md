@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 --!>
 
 
-- 🌱 I’m currently learning computer sience(security).
+- 🌱 I’m currently learning computer sience(security)<br>
 
-- 📫 interested in app development and artificial intelligence.
+- 📫 interested in app development and artificial intelligence
 <!--
 - 👯 I’m looking to collaborate on ...
 
