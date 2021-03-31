@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 --!>
 
 
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
+
 - 🌱 I’m currently learning computer sience(security)<br>
 
-- 📫 interested in app development and artificial intelligence
+- 📫 interested in app development, Block chain
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 - 👯 I’m looking to collaborate on ...
