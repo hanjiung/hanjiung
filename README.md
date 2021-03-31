@@ -1,4 +1,4 @@
-## JIUNG
+## WOONG DEV
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 
