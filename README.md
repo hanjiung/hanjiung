@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 - 📫 interested in app development, Block chain
 
-### Algorithm
+### Cards
+
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 
 <!--
