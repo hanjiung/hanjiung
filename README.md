@@ -6,14 +6,12 @@
 Here are some ideas to get you started:
 --!>
 
-
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
-
 - 🌱 I’m currently learning computer sience(security)<br>
 
 - 📫 interested in app development, Block chain
-<br>
 
+### Algorithm
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 
 <!--
 - 👯 I’m looking to collaborate on ...
