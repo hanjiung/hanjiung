@@ -3,8 +3,6 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiung&show_icons=true&theme=radical)
-<br>
-![My_Blog](https://wooong-dev.tistory.com/)
 
 <br><br>
 ## Hi there 👋
@@ -30,3 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --!>
+### WOOONG_BLOG
+![My_Blog](https://wooong-dev.tistory.com/)
