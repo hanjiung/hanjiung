@@ -1,8 +1,8 @@
-### Study
+### Dev
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiung&show_icons=true&theme=radical)
 
 ### Hi there 👋
 
