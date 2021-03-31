@@ -1,3 +1,9 @@
+### Study
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
+
+
+
 ### Hi there 👋
 
 <!--
@@ -9,10 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer sience(security)<br>
 
 - 📫 interested in app development, Block chain
-
-### Cards
-
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 
 <!--
 - 👯 I’m looking to collaborate on ...
