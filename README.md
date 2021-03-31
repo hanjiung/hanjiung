@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 
 --!>
 ### WOOONG_BLOG
-![My_Blog](https://wooong-dev.tistory.com/)
+
+https://wooong-dev.tistory.com/
