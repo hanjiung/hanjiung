@@ -19,4 +19,4 @@ https://wooong-dev.tistory.com/
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiung&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooongdev&show_icons=true&theme=radical)
