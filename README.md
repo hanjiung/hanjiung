@@ -19,7 +19,8 @@
 
 ### WOOONG.DEV
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooongdev&hide=html)
+![wooong's github stats](https://github-readme-stats.vercel.app/api?username=wooongdev&show_icons=true&count_private=true&line_height=40)
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooongdev&show_icons=true&theme=radical)
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=codethinking)](https://solved.ac/codethinkg)
